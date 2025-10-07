@@ -71,6 +71,11 @@
   <div class="collapsible" aria-hidden="true">
     <div class="produtos-grid" id="grid-legumes"></div>
   </div>
+  
+  <button class="category-btn" type="button" aria-expanded="false">Polpas <span class="caret">▶</span></button>
+  <div class="collapsible" aria-hidden="true">
+    <div class="produtos-grid" id="grid-polpas"></div>
+  </div>
 
   <script>
     document.addEventListener('DOMContentLoaded', function () {
@@ -168,7 +173,22 @@
 			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/inhame-cara-YbNJQgkEEKfM7VP9.png',
 			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/ervilha-Aq2J3bP4vWUnJKWB.png',
 			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/cebola-roxa-YanJXQoLOJtDVEPP.png'
-        ]
+        ],
+		polpas: [
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-graviola-AzGM4jbkQniLvDqr.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-framboesa-AGBzyM57xJFk700X.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-cupuacu-mjE4bPB0MRu2N2RM.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-morango-YbN4gn8OlbF0ewaW.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-mirtilo-A3Ql9agoEeiGpRrl.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-maracuja-YbN4gn8O90Fb2VP4.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-manga-YrD4b179GVHGBkjb.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-goiaba-Yan0Q6POoqC7oK0q.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-frutas-vermelhas-AR01W2w53KS9yww4.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-caju-A1az91GoXVIp3MzD.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-amora-Awv8bjnEBkFgPpgb.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-acerola-Y4LP9OrowoUBB8ay.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/polpa-cong-abacaxi-YZ9EQaGWvyfzvNqp.png'
+		]
       };
 
       // mapa com valores já formatados (MAIÚSCULA inicial + acentos corretos)
@@ -290,6 +310,7 @@
       buildGrid(categorias.frutas, 'grid-frutas');
       buildGrid(categorias.hortalicas, 'grid-hortalicas');
       buildGrid(categorias.legumes, 'grid-legumes');
+	  buildGrid(categorias.polpas, 'grid-polpas');
 
       // lógica dos botões (toggle com animação suave)
       const buttons = document.querySelectorAll('.category-btn');
