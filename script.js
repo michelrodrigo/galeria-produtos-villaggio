@@ -133,10 +133,41 @@
 			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/salvia-m7Vb697NKXcrpgJP.png'
         ],
         legumes: [
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/figo-A3Q7v9bQZnSNOoZL.png',
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/maca-gala-YbNJQgkNGeFgwoNv.png',
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/mexerica-pokan-Yg2ynQo2JPHoqqob.png',
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/banana-terra-AzGN54BnxEIDNEEa.png'
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/tomate-andreia-A85VW98RGyiZoZ8V.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/pimentao-vermelho-mxBXLbeRXqfRZl00.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/quiabo-A1a5E9WZ6GfD701B.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/batata-baroa-mxBXLbePRyS24qKx.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/abobora-moranga-Y4Lvz9wRjEUx2qZj.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/beterraba-YbNJQgkjvrhnKrx9.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/mandioca-amarela-Awv9xb3lRysZ4Lo9.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/tomate-sg-vermelho-AVLaEQoRWluDnzWW.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/batata-doce-roxa-YD0wVoLJ7vCWnJMV.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/cebola-miuda-YX4xvVoR2xCpGR5Y.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/batata-asterix-YKblZWnyb8UZlr6a.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/batata-bolinha-AzGN54BoNPFqaNWQ.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/tomate-sg-amarelo-YleQ8boRPKueWgLb.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/mandioca-cacau-YBgb0wON6gIl976n.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/pimentao-verde-m2WE79JZavTOkn5v.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/cenoura-YZ9jqQo168t58plj.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/cebola-cocao-YD0wVoLRV3TREWNz.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/pimentao-amarelo-AzGN54Bo08CXXgbo.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/batata-suja-mxBXLbeg8Lu5kN0N.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/cebola-AzGN54BogjteMjwD.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/vagem-YNq21bW0oRSXG837.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/pepino-dOqDBpJVroSo7L6J.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/abobrinha-italiana-AzGN54BlzQUolj9l.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/brocolis-mk3JPGoWyoTz9PEz.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/berinjela-mnlJDbow5EuvgX9p.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/batata-doce-branca-A1a5E9WZ6PCGrXRb.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/batata-inglesa-YD0wVoLW9NCxwgXp.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/chuchu-A85VW98xDyS4y6y8.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/repolho-mp8JZblQkRtP3RZZ.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/repolho-roxo-mnlJDbowByUrXp85.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/couve-flor-A1a5E9WZVGiX47l5.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/pepino-japones-YD0wVoLWepSoWxvy.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/inhame-cara-YbNJQgkEEKfM7VP9.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/ervilha-Aq2J3bP4vWUnJKWB.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/cebola-roxa-YanJXQoLOJtDVEPP.png'
         ]
       };
 
@@ -181,6 +212,14 @@
 		"alho poro": "Alho Poró",
 		"manjericao": "Manjericão",
 		"salsao": "Salsão",
+		"brocolis": "Brócolis",
+		"cebola cocao": "Cebola Cocão",
+		"cebola miuda": "Cebola Miúda",
+		"inhame cara": "Inhame Cará",
+		"pepino japones": "Pepino Japonês",
+		"pimentao amarelo": "Pimentão Amarelo",
+		"pimentao vermelho": "Pimentão Vermelho",
+		"pimentao verde": "Pimentão Verde",
         "laranja perA rio": "Laranja Pera Rio" // note: try to prefer simple lower-case keys; keep this as example
       };
 
