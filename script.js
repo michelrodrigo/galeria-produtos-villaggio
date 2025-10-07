@@ -12,7 +12,7 @@
       align-items: center;
       width: 100%;
       padding: 12px 16px;
-      background: #28a745;
+      background: #003f36;
       color: white;
       border: none;
       border-radius: 8px;
@@ -112,10 +112,25 @@
           'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/laranja-bahia-mp8JZbl8Mluv2bZK.png'
         ],
         hortalicas: [
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/coco-seco-mP4MaWb4wzUeQkZQ.png',
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/uva-rubi-AMq8eW6qEVF8gWWo.png',
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/abacaxi-mePJ4QoPD3f1l3QM.png',
-          'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/manga-tomy-AE0rlWjzNXSKaewV.png'
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/cebolete-Y4Lvz9jnabTb44zK.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/salsa-mP4MaWx63Ks0Z6Q7.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/coentro-ALpP3W1zeQFMjNyD.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/alho-poro-AE0rlW89ELuqz2l0.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/agriao-m5Knqk54pPhXG7ka.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/alecrim-m7Vb697NkrSpMBKZ.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/alface-roxa-AoPJMbL77bhvbOaP.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/salsao-A1a5E9n6PjTX3Elk.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/mostarda-m2WE79xOwMHKWB04.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/manjericao-mnlJDbxXaLckRDOP.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/acelga-YanJXQlG6Zhzy616.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/alface-americana-dJobMW3p01CQg100.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/salsa-crespa-mnlJDbxXyWHr0Bz6.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/radicchio-A85VW9v7JpTw2wjL.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/rucula-YD0wVoPZvZf9kzO5.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/chicoria-m5Knqk5OB7IEB44R.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/couve-YD0wVoPZERSbvZB7.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/alface-crespa-mp8JZbjOk2TLeG0l.png',
+			'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/salvia-m7Vb697NKXcrpgJP.png'
         ],
         legumes: [
           'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/d954JZ89oWugJMoV/figo-A3Q7v9bQZnSNOoZL.png',
@@ -160,6 +175,12 @@
         "morango": "Morango",
         "kiwi": "Kiwi",
         "laranja": "Laranja",
+		"salvia": "Sálvia",
+		"chicoria": "Chicória",
+		"agriao": "Agrião",
+		"alho poro": "Alho Poró",
+		"manjericao": "Manjericão",
+		"salsao": "Salsão",
         "laranja perA rio": "Laranja Pera Rio" // note: try to prefer simple lower-case keys; keep this as example
       };
 
